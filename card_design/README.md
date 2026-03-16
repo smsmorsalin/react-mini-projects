@@ -1,16 +1,124 @@
-# React + Vite
+# 🎴 React Card Design
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **Card Design UI built with React and Tailwind CSS**.  
+This project demonstrates how to create reusable card components and design a clean responsive layout using modern frontend technologies.
 
-Currently, two official plugins are available:
+This project is part of my **React Mini Projects collection** where I practice building small UI components and improving my frontend development skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- ⚛️ React JS
+- 🎨 Tailwind CSS
+- 🟨 JavaScript (ES6)
+- 🌐 HTML5
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- Responsive card UI
+- Modern design using Tailwind utility classes
+- Reusable React components
+- Clean and simple project structure
+- Beginner-friendly code
+
+---
+
+## 📂 Project Structure
+
+```
+card_design
+│
+├── public
+│   └── index.html
+│
+├── src
+│   ├── components
+│   │   └── Card.jsx
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── tailwind.config.js
+├── package.json
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/smsmorsalin/react-mini-projects.git
+```
+
+Go to the project folder:
+
+```bash
+cd react-mini-projects/card_design
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Then open in your browser:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 🎯 Purpose of the Project
+
+This project was created to practice:
+
+- React component structure
+- Tailwind CSS styling
+- Building reusable UI components
+- Frontend layout design
+
+---
+
+## 🔮 Future Improvements
+
+- Add card hover animations
+- Add dynamic card data
+- Fetch data from an API
+- Improve responsive layout
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Push and open a Pull Request
+
+
+---
+
+## 👨‍💻 Author
+
+**SMS Morsalin**
+
+GitHub:  
+https://github.com/smsmorsalin
