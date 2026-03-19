@@ -1,4 +1,4 @@
-# React + Vite + tailwindcss
+# React + Vite + tailwindcss + javascript
 WORKING>>>>>>>>>>>>>>
 
 
