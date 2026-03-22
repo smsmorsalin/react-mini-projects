@@ -2,4 +2,4 @@
 WORKING>>>>>>>>>>>>>>
 
 
-a simple notes_taking_app
+a notes_taking_app
