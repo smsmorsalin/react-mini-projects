@@ -23,6 +23,9 @@ const App = () => {
         </div>
 
         <div className='p-10 border-2 lg:h-full lg:w-full rounded-2xl mx-3 bg-gray-800'>
+
+<div>card</div>
+
         </div>
       </div>
     </div>
