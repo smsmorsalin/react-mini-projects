@@ -24,7 +24,7 @@ const App = () => {
 
         <div className='p-10 border-2 lg:h-full lg:w-full rounded-2xl mx-3 bg-gray-800'>
 
-<div className='p-4 h-300 w-200 border-2'>card</div>
+<div className='p-4 h-300 w-200 border-2 flex gap-3'>card</div>
 
         </div>
       </div>
