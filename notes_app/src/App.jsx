@@ -22,9 +22,13 @@ const App = () => {
           </form>
         </div>
 
-        <div className='p-10 border-2 lg:h-full lg:w-full rounded-2xl mx-3 bg-gray-800'>
+        <div className='p-2 border-2 lg:h-full lg:w-full rounded-2xl mx-3 bg-gray-800 flex gap-3 flex-wrap justify-start items-start overflow-y-scroll'>
 
-<div className='p-4 h-300 w-200 border-2 flex gap-3'>card</div>
+          <div className='p-4 h-1/2 w-1/3 border-2 flex gap-2 rounded-2xl'>card</div>
+          <div className='p-4 h-1/2 w-1/3 border-2 flex gap-2 rounded-2xl'>card</div>
+          <div className='p-4 h-1/2 w-1/3 border-2 flex gap-2 rounded-2xl'>card</div>
+          <div className='p-4 h-1/2 w-1/3 border-2 flex gap-2 rounded-2xl'>card</div>
+          <div className='p-4 h-1/2 w-1/3 border-2 flex gap-2 rounded-2xl'>card</div>
 
         </div>
       </div>
